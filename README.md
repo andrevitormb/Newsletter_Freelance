@@ -8,8 +8,7 @@
 
 ##⚡️ Responsive with: 
 
-<img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/><img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v2.png"/>
 
 ## Contact me 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://pt.linkedin.com/in/andre-macedo-a99b02243)
